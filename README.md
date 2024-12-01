@@ -43,7 +43,7 @@ Proje ile ilgili sorularınız veya geri bildirimleriniz için aşağıdaki ilet
 - **E-posta**: [Gmail](mailto:mmuhammedmelih@gmail.com)
 - **Discord**: [Airfax](https://discord.com/users/837953203197968414) 
 - **Instagram**: [airboy.fax](https://www.instagram.com/airboy.fax) 
-- **GitHub**: [https://github.com/airfax8](https://github.com/airfax8)
+- **GitHub**: [airfax8](https://github.com/airfax8)
 
 Veya aşağıdaki link üzerinden bize ulaşabilirsiniz:
 - [Projeye GitHub üzerinden katkıda bulun](https://github.com/airfax8/AirMusic-Downloader)
