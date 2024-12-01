@@ -1,2 +1,0 @@
-pip install yt-dlp
-pip install ffmpeg
