@@ -40,9 +40,9 @@ Bu proje [MIT Lisansı](https://opensource.org/licenses/MIT) ile lisanslanmışt
 
 Proje ile ilgili sorularınız veya geri bildirimleriniz için aşağıdaki iletişim bilgilerini kullanabilirsiniz:
 
-- **E-posta**: [email@example.com](mailto:mmuhammedmelih@gmail.com)
-- **Discord**: [Airfax](https://discord.com/users/837953203197968414)  _(Discord kullanıcı adınızı buraya ekleyin)_
-- **Instagram**: [@airfax8](https://www.instagram.com/airboy.fax)  _(Instagram profil linkinizi buraya ekleyin)_
+- **E-posta**: [Gmail](mailto:mmuhammedmelih@gmail.com)
+- **Discord**: [Airfax](https://discord.com/users/837953203197968414) 
+- **Instagram**: [airboy.fax](https://www.instagram.com/airboy.fax) 
 - **GitHub**: [https://github.com/airfax8](https://github.com/airfax8)
 
 Veya aşağıdaki link üzerinden bize ulaşabilirsiniz:
