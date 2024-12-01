@@ -33,21 +33,8 @@ Bu proje, **Python 3.x**'te çalışmaktadır. Aşağıdaki adımları takip ede
 
 ## Lisans
 
-Bu proje, **MIT Lisansı** altında lisanslanmıştır. Aşağıdaki şartlara tabidir:
+Bu proje [MIT Lisansı](https://opensource.org/licenses/MIT) ile lisanslanmıştır.
 
-MIT Lisansı
-------------
-
-İzin verilenler:
-- Bu yazılımı kopyalama, değiştirme, birleştirme, yayımlama, dağıtma, alt lisans verme ve/veya satma hakkına sahip olursunuz.
-
-Sınırlamalar:
-- Yazılımın, lisans verenin hiçbir koşulda, herhangi bir sorumluluğa giren durumlar için kullanılması garanti edilmez.
-- Yazılım, olduğu gibi "olduğu şekilde" sağlanır ve herhangi bir garanti verilmez.
-
-Yazılımı kullanan kişi, yazılımın kendi riskiyle kullanacağını kabul eder.
-
-Lisans hakkında daha fazla bilgi için [MIT Lisansını](https://opensource.org/licenses/MIT) inceleyebilirsiniz.
 
 ## İletişim
 
