@@ -1,0 +1,33 @@
+name: Build EXE and Publish
+
+on:
+  push:
+    branches:
+      - main  # Ana dalda değişiklik olduğunda çalışacak.
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+    - name: Kodu Klonla
+      uses: actions/checkout@v3
+
+    - name: Python Kur
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.11"
+
+    - name: Gerekli Bağımlılıkları Yükle
+      run: |
+        pip install pyinstaller yt-dlp requests
+
+    - name: EXE Dosyası Oluştur
+      run: |
+        pyinstaller --onefile --windowed --add-data "airmic1.ico;." --icon=airmic1.ico main.py
+
+    - name: EXE Dosyasını Yükle
+      uses: actions/upload-artifact@v3
+      with:
+        name: AirMusic-Downloader
+        path: dist/main.exe
