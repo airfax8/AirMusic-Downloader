@@ -9,8 +9,8 @@
 ## Kullanım
 
 1. **Uygulamayı Başlatın:** `main.exe` dosyasını çalıştırarak uygulamayı başlatın.
-2. **Şarkı Araması Yapın:** Giriş kutusuna şarkı adı veya YouTube video URL'si girin.
-3. **İndirme:** Arama butonuna tıkladıktan sonra, indirilen müzik dosyasını MP3 veya MP4 formatında indirme seçeneğiniz olacak.
+2. **Şarkı Araması Yapın:** Giriş kutusuna şarkı adı girin.
+3. **İndirme:** Arama butonuna tıkladıktan sonra, biraz bekleyin arkada indiriliyordur 1-2 dakka içinde inmiş olur.
 
 ### Gereksinimler
 
